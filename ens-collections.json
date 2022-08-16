@@ -1463,14 +1463,56 @@
       ]
     },
     {
-    "name": "South-Park-Characters",
-    "slug": "south-park-characters",
+    "name": "South Park",
+    "slug": "south-park",
     "description": "Characters appearing in South Park",
     "twitter": "",
     "website": "",
     "chat": "",
     "logo": "south-park.png",
     "csv": ["south-park.csv"]
+    },
+    {
+    "name": "The Simpsons",
+    "slug": "the-simpsons",
+    "description": "Characters appearing in The Simpsons",
+    "twitter": "",
+    "website": "",
+    "chat": "",
+    "logo": "the-simpsons.png",
+    "csv": ["the-simpsons.csv"]
+    },
+    {
+    "name": "Rick and Morty",
+    "slug": "rick-and-morty",
+    "description": "Characters appearing in Rick and Morty",
+    "twitter": "",
+    "website": "",
+    "chat": "",
+    "logo": "rick-and-morty.png",
+    "csv": ["rick-and-morty.csv"]
+    }
+    ,
+    {
+    "name": "Star Wars",
+    "slug": "star-wars",
+    "description": "Characters appearing in Star Wars",
+    "twitter": "",
+    "website": "",
+    "chat": "",
+    "logo": "star-wars.png",
+    "csv": ["star-wars.csv"]
+    }
+    ,
+    {
+    "name": "Adventure Time",
+    "slug": "adventure-time",
+    "description": "Characters appearing in Adventure Time",
+    "twitter": "",
+    "website": "",
+    "chat": "",
+    "logo": "adventure-time.png",
+    "csv": ["adventure-time.csv"]
     }
   ]
 }
